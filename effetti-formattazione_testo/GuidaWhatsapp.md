@@ -21,4 +21,4 @@ WhatsApp supporta diverse opzioni di formattazione del testo per aiutarti a dare
     + In una chat, solitamente di gruppo, puoi menzionare specifici partecipanti utilizzando il simbolo ( @ ) seguito dal loro nome utente.
     - Esempio: @nome
 
-+ Puoi anche combinare questi stili per ottenere effetti combinati, ad esempio utilizzando grassetto e corsivo insieme: *_testo_* diventerà __*testo*__.
++ Puoi anche combinare questi stili per ottenere effetti combinati, ad esempio utilizzando grassetto e corsivo insieme: `_*testo*_` diventerà __*testo*__.

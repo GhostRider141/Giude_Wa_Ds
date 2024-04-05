@@ -35,4 +35,4 @@ Discord utilizza la sintassi Markdown per permettere una vasta gamma di stili di
     `##### Titolo di Livello 5`
     `###### Titolo di Livello 6`
 
-+ Puoi anche combinare questi stili per ottenere effetti combinati, ad esempio utilizzando grassetto e corsivo insieme: _*testo*_ diventerà __*testo*__.
++ Puoi anche combinare questi stili per ottenere effetti combinati, ad esempio utilizzando grassetto e corsivo insieme: `_*testo*_` diventerà __*testo*__.

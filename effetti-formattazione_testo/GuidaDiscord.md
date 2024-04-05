@@ -20,7 +20,7 @@ Discord utilizza la sintassi Markdown per permettere una vasta gamma di stili di
 6. Citazioni:
     + Singola linea: ( > ) testo per una citazione.
     + Multilinea: ( >>> ) testo per citazioni su più righe.
-    - Esempio: >testo
+    - Esempio: > testo
 7. Menzioni:
     + Utenti: @NomeUtente o @IDUtente per notificare un utente specifico.
     + Ruoli: @NomeRuolo per notificare tutti gli utenti di quel ruolo.

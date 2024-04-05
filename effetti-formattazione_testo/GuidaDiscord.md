@@ -8,7 +8,7 @@ Discord utilizza la sintassi Markdown per permettere una vasta gamma di stili di
     Un asterisco o underscore ( * o _ ) rende il testo corsivo.
     - Esempio: *testo*
 3. Sottolineato: 
-    + Due underscore ( __ ) rendono il testo sottolineato (nota: questa funzionalità può variare).
+    + Due underscore ( __ ) rendono il testo sottolineato .
     - Esempio: testo
 4. Barrato: 
     + Due tilde ( ~~ ) rendono il testo barrato.
@@ -20,7 +20,7 @@ Discord utilizza la sintassi Markdown per permettere una vasta gamma di stili di
 6. Citazioni:
     + Singola linea: ( > ) testo per una citazione.
     + Multilinea: ( >>> ) testo per citazioni su più righe.
-    - Esempio: > testo
+    - Esempio: >testo
 7. Menzioni:
     + Utenti: @NomeUtente o @IDUtente per notificare un utente specifico.
     + Ruoli: @NomeRuolo per notificare tutti gli utenti di quel ruolo.
@@ -35,4 +35,4 @@ Discord utilizza la sintassi Markdown per permettere una vasta gamma di stili di
     `##### Titolo di Livello 5`
     `###### Titolo di Livello 6`
 
-+ Puoi anche combinare questi stili per ottenere effetti combinati, ad esempio utilizzando grassetto e corsivo insieme: *_testo_* diventerà __*testo*__.
++ Puoi anche combinare questi stili per ottenere effetti combinati, ad esempio utilizzando grassetto e corsivo insieme: _*testo*_ diventerà __*testo*__.
